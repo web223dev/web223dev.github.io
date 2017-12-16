@@ -128,6 +128,14 @@ body{font-family: 'Conv_ProximaNova-Light'; background:#fff8e9 url(../images/bac
 
 .map-sec iframe{ width:100%; display:block; height:600px; border:none;}
 
+.map {
+	-webkit-filter: grayscale(100%);
+		 -moz-filter: grayscale(100%);
+			-ms-filter: grayscale(100%);
+			 -o-filter: grayscale(100%);
+					filter: grayscale(100%);
+}
+
 .footer{ padding:50px 3%; width:100%; text-align:right;}
 
 .footer ul{ text-align:right; margin:0; padding:0;}
