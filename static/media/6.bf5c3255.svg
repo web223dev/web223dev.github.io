@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="64px" viewBox="0 0 76 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-data-breach</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Home---Extra-large-≥1200px" transform="translate(-494.000000, -3267.000000)" stroke="#333333" stroke-width="3">
+            <g id="icon-data-breach" transform="translate(495.000000, 3268.000000)">
+                <path d="M45.4994,11.8751 L45.4994,4.8331 C45.4994,2.4401 47.4394,0.5001 49.8324,0.5001 C52.2264,0.5001 54.1664,2.4401 54.1664,4.8331 L54.1664,47.1671 C54.1664,49.5601 52.2264,51.5001 49.8324,51.5001 C47.4394,51.5001 45.4994,49.5601 45.4994,47.1671 L45.4994,25.5001" id="Stroke-1"></path>
+                <path d="M66.8327,40.1334 C70.7117,36.6544 73.1657,31.6204 73.1657,26.0004 C73.1657,20.3794 70.7117,15.3454 66.8327,11.8664" id="Stroke-3"></path>
+                <path d="M61.3327,33.4386 C63.3737,31.6076 64.6657,28.9576 64.6657,25.9996 C64.6657,23.0416 63.3737,20.3926 61.3327,18.5616" id="Stroke-5"></path>
+                <path d="M6.5833,32.5 C3.2233,32.5 0.5003,29.776 0.5003,26.417 C0.5003,23.057 3.2233,20.333 6.5833,20.333" id="Stroke-7"></path>
+                <path d="M18.9576,38.1667 L15.2796,38.1667 C11.7196,38.1667 8.8326,35.2797 8.8326,31.7197 L8.8326,20.4477 C8.8326,16.8867 11.7196,13.9997 15.2796,13.9997 L27.3326,13.9997 L27.6656,13.9997 L27.6656,56.3337 C27.6656,58.7267 25.7256,60.6667 23.3326,60.6667 C20.9396,60.6667 18.9996,58.7267 18.9996,56.3337 L18.9996,37.9997" id="Stroke-9" stroke-linejoin="round"></path>
+                <path d="M27.3327,38.1667 L18.9577,38.1667" id="Stroke-11" stroke-linejoin="round"></path>
+                <path d="M45.5108,4.9717 C41.4598,10.4727 34.9378,14.0417 27.5828,14.0417" id="Stroke-13" stroke-linejoin="round"></path>
+                <path d="M45.5108,47.2361 C41.4598,41.7351 34.9378,38.1661 27.5828,38.1661" id="Stroke-15" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

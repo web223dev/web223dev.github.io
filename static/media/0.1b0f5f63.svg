@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="64px" viewBox="0 0 68 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-network-interruption</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Home---Extra-large-≥1200px" transform="translate(-496.000000, -2550.000000)" stroke="#333333" stroke-width="3">
+            <g id="icon-network-interruption" transform="translate(497.000000, 2551.000000)">
+                <path d="M31,61.1667 C14.247,61.1667 0.667,47.5857 0.667,30.8337 C0.667,14.0807 14.247,0.4997 31,0.4997 C45.507,0.4997 57.635,10.6837 60.626,24.2917" id="Stroke-1"></path>
+                <path d="M31,0.5 L31,23" id="Stroke-3"></path>
+                <path d="M24.0647,31 L0.4997,31" id="Stroke-5"></path>
+                <path d="M22.3147,47.0096 L5.5027,47.0096" id="Stroke-7"></path>
+                <polyline id="Stroke-9" points="57.4976 15.991 30.6666 14.99 5.5026 15.991"></polyline>
+                <path d="M64.556,42.456 C64.556,52.747 56.213,61.09 45.922,61.09 C35.631,61.09 27.288,52.747 27.288,42.456 C27.288,32.165 35.631,23.822 45.922,23.822 C56.213,23.822 64.556,32.165 64.556,42.456 Z" id="Stroke-11"></path>
+                <path d="M45.9346,33.1241 L45.8156,45.7881" id="Stroke-13"></path>
+                <path d="M45.875,51.1346 L45.875,51.7926" id="Stroke-15"></path>
+                <path d="M31,61.1667 C21.887,61.1667 14.5,47.5857 14.5,30.8337 C14.5,14.0807 21.887,0.4997 31,0.4997 C37.802,0.4997 43.643,8.0667 46.167,18.8717" id="Stroke-17"></path>
+            </g>
+        </g>
+    </g>
+</svg>
