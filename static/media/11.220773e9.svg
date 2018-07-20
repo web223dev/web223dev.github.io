@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="62px" viewBox="0 0 71 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-pr-connect</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---Extra-large-≥1200px" transform="translate(-1253.000000, -3635.000000)">
+            <g id="icon-pr-connect" transform="translate(1254.000000, 3636.000000)">
+                <path d="M68,52.4454 C68,56.2094 64.949,59.2604 61.185,59.2604 L7.315,59.2604 C3.551,59.2604 0.5,56.2094 0.5,52.4454 L0.5,21.3264 C0.5,17.5624 3.551,14.5104 7.315,14.5104 L61.185,14.5104 C64.949,14.5104 68,17.5624 68,21.3264 L68,35.7604" id="Stroke-1" stroke="#333333" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M19.625,24.7608 C26.321,24.7608 31.75,30.1898 31.75,36.8858 C31.75,43.5818 26.321,49.0108 19.625,49.0108 C12.929,49.0108 7.5,43.5818 7.5,36.8858 C7.5,34.9168 7.969,33.0578 8.802,31.4138" id="Stroke-3" stroke="#333333" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M21.9375,36.8858 C21.9375,38.1628 20.9025,39.1988 19.6245,39.1988 C18.3475,39.1988 17.3125,38.1628 17.3125,36.8858 C17.3125,35.6088 18.3475,34.5728 19.6245,34.5728 C20.9025,34.5728 21.9375,35.6088 21.9375,36.8858" id="Fill-5" fill="#333333"></path>
+                <path d="M39,28.0108 L58,28.0108" id="Stroke-7" stroke="#333333" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M39,37.0162 L58,37.0162" id="Stroke-9" stroke="#333333" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M39,46.0216 L58,46.0216" id="Stroke-11" stroke="#333333" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M54.5036,0.5 L54.5036,14.497" id="Stroke-13" stroke="#333333" stroke-width="3" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
