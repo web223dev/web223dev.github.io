@@ -1,0 +1,2268 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,600,700');
+
+body {
+  margin: 0;
+  padding: 0;
+  /* font-family: "Roboto", "Helvetica", "Arial", sans-serif !important; */
+}
+
+/*********************************************************************************************************************************************************************************/
+/* Commented Style */
+
+/* .MuiButton-containedPrimary-84 {
+  background-color: #fbca00 !important;
+  color: #646777 !important;
+  font-weight: 600;
+} */
+
+ /* .MuiPaper-rounded-116{
+  border-radius:0px !important;
+} */
+
+/* .MuiPaper-elevation11-128{
+  -webkit-box-shadow:0 1px 30px 1px rgba(0, 0, 0, 0.11) !important;
+  box-shadow:0 1px 30px 1px rgba(0, 0, 0, 0.11) !important;
+} */
+
+/* .MuiButton-label-164 svg[class^="MuiSvgIcon"]{
+  fill:#70bbfd !important;
+} */
+
+/* .Menu-root-328{ 
+  position:fixed !important;
+} */
+
+/* .layout div[class^="MuiDrawer"] > div > div{ 
+  position:fixed; width:240px;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div > div a:hover{
+  background: linear-gradient(to right, #FF5722, #FBCA00) !important;
+  background-color: #FBCA00 !important;
+  background-color: #f2f4f7 !important;
+  color: #0F263A !important;
+  font-weight: bold;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 svg[class^="MuiSvgIcon"]{
+  fill: #fff !important;
+} */
+
+/* .panel{
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2) !important;
+} */
+
+/* 
+table tbody td{
+	color: #0F263A !important;
+} */
+
+/* .list-page{
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2) !important;
+} */
+
+/* .show-page{
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.2) !important;
+} */
+
+/* .show-page a:active{
+	border-bottom: none !important;
+	border-left: 2px solid #f2f4f7 !important;
+	border-right: 2px solid #f2f4f7 !important;
+  border-top: 2px solid #f2f4f7 !important;
+  background: linear-gradient(to right, #FF5722, #FBCA00) !important;
+  background-color: #f2f4f7 !important;
+} */
+
+/* .show-page a:focus{
+	border-bottom: none !important;
+	border-left: 2px solid #f2f4f7 !important;
+	border-right: 2px solid #f2f4f7 !important;
+  border-top: 2px solid #f2f4f7 !important;
+  background: linear-gradient(to right, #FF5722, #FBCA00) !important;
+  background-color: #f2f4f7 !important;
+} */
+
+/* .show-page > div > div > div > div > div > span {
+  background:#fff !important;
+  display: none !important;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div > div > div > ul:hover h3{
+  color: #0F263A !important;
+  font-weight: 600;
+} */
+
+/* .badge-warning svg[class^="MuiSvgIcon"] {
+  fill: #ffffff !important; 
+} */
+
+/* .Login-main-1 {    
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+} */
+
+/* .MuiTableCell-numeric-270 {
+  text-align: left !important;
+  flex-direction: row-reverse;
+}
+
+.MuiTableCell-root,.MuiTableCell-body,.MuiTableCell-numeric{
+  text-align: left !important;
+}
+
+.MuiTableCell-root-66 {
+  border-bottom-color: #eff1f5 !important;
+} */
+
+/* .MuiButton-label-165 svg[class^="MuiSvgIcon"] {
+  fill: #70bbfd !important;
+} */
+
+/* MuiButton Customization*/
+
+/* .list-page span[class^="MuiButton"]{ 
+  color:#70bbfd;
+}*/
+
+/*.list-page span[class^="MuiButton"] span{ 
+  text-transform:capitalize !important; font-weight: 600; } */
+
+/* Table Customization*/
+
+/*Bootstrap Table*/
+
+/* .table-class-new {
+  float: left;
+} */
+
+/* .table-bordered thead {
+  background-color: #646777 !important;
+} */
+
+/* .TableResponsive thead {
+  background-color: #646777 !important;
+  color: #fff !important;
+  border: 1px solid #ccc !important;
+} */
+
+  /* div[class^="Labeled"] table thead{
+  background: #646777 !important;
+} */
+
+ /* .table-heading th{
+  color: #fff !important;
+} */
+
+/* .TableResponsive thead span{
+  color: #fff !important;
+} */
+
+/* table tbody td{
+  font-size:13px !important;
+  color:#646777 !important;
+} */
+
+/*MUI Table*/
+
+/* .list-page table thead tr th{
+  color: #FFFFFF !important;
+} */
+
+/* .list-page table[class^="MuiTable"] > thead[class^="MuiTableHead"]{
+  background: #646777 !important;
+} */
+
+/* .list-page table[class^="MuiTable"] > thead[class^="MuiTableHead"] tr th span span{
+  color: #FFFFFF !important;
+}
+.list-page table[class^="MuiTable"] > thead[class^="MuiTableHead"] svg{
+  fill: #ffffff !important;
+}  */
+
+/* .Datagrid-table-249 td, .datagrid-body td, .Datagrid-table-71 th, .TableResponsive th {
+  border: 1px solid #ccc;
+  padding: 0px 12px !important;
+} */
+
+/*Login Page*/
+
+/* div[class^="MuiInput"]{
+  color: #FFFFFF !important;
+}*/
+
+/*div[class^="Login"] form label{
+  color: #FFFFFF !important;
+} */
+
+/* .row div[class^="MuiPaper"]{
+  width: 55% !important;
+} */
+
+/* div[class^="MuiDrawer"] div[class^="MuiPaper"] div[class^="Menu"] ul {
+  position: absolute;    bottom: 0px;
+} */
+
+/* .layout div[class^="MuiDrawer"] div[class^="Menu"] a { 
+  font-size:15px; font-weight:400;
+} */
+
+/* div[class^="MuiGrid"] > div[class^="MuiPaper"]{
+  margin-top: 8px !important;
+} */
+
+/* div[class^="MuiDrawer"] div[class^="MuiPaper"] { 
+  width:100%;
+} */
+
+/* div[class^="MuiDrawer"] div[class^="MuiPaper"] {
+  -webkit-box-shadow: 0 1px 30px 1px rgba(0,0,0,.11) !important;
+  box-shadow: 0 1px 30px 1px rgba(0,0,0,.11) !important;
+} */
+
+/* .headroom-wrapper .headroom header{     
+  padding: 6px 4px !important;
+} */
+
+/* .Menu-root-131{
+padding-top: 0px !important;
+}   */
+
+/* .SensorListDataGraphTabs-root-353 {
+  width: 100% !important;
+} 
+.EnhancedTable-root-319 {
+  margin-top: 8px !important;
+}
+.MuiPaper-elevation4-20 {
+  box-shadow: none !important;
+}
+.EnhancedTable-table-320 {
+  border-right: 3px solid #000;
+}
+.MuiInput-root-57 {
+  color: #ccc !important;
+} */
+
+/* Number Style Commented*/
+
+/* .headroom-wrapper .MuiButtonBase-root-182,.headroom-wrapper div[class^="MuiButtonBase"]{
+  margin:0px !important;
+} */
+
+/* .headroom-wrapper  .WithTheme-WithWidth-AppBar---title-9{
+   color:#000000 !important;
+  } */
+
+/* .Menu-root-328{ 
+  max-width:225px !important
+} */
+
+/* @media (max-width: 599px){
+  .MuiPaper-elevation11-52, .MuiPaper-rounded-40, .MuiPaper-root-39 {
+    box-shadow: none !important;
+    border-radius: none !important;
+  }
+  div[class^="MuiDrawer"] div[class^="MuiPaper"] {
+    box-shadow: none !important;
+    border-radius: none !important;
+  }
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div{
+  border-radius:0px !important;
+  background: #0F263A;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div > div{
+  background: #fff !important;
+  width: 100% !important;
+} */
+
+/* .Menu-root-131{
+  width: 100% !important;
+} */
+
+/* .MuiDrawer-docked-120 .WithTheme-WithWidth-Sidebar---drawerPaper-10{
+  padding-right: 20px !important;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10{
+  margin-top: 0px !important;
+  padding-right: 25px !important;
+  padding: 0px !important;
+} */
+
+/* .Layout-contentWithSidebar-3 .WithTheme-WithWidth-Sidebar---drawerPaper-10{
+  padding: 0px !important;
+} */
+
+/* .Layout-appFrame-2 .headroom-wrapper .headroom header{
+  background-color: #fff !important;
+} */
+
+/* .MenuItemLink-icon-138 svg[class^="MuiSvgIcon"] {
+  fill: #0F263A !important;
+} */
+
+/* .MuiButtonBase-root-66 svg[class^="MuiSvgIcon"] {
+  fill: #b1c3c8 !important;
+} */
+
+/* .MuiIconButton-label-65 svg[class^="MuiSvgIcon"] {
+  fill: #fff !important;
+} */
+
+/* .datagrid-body tr .MuiButton-textPrimary-167:hover{
+	background:#ff572287 !important;
+} */
+
+/* .MuiIconButton-label-65 svg[class^="MuiSvgIcon"] {
+  fill: #b1c3c8 !important;
+} */
+
+/* .MuiInput-input-65 {
+  padding: 6px 36px 8px 0px !important;
+} */
+
+/* .Datagrid-rowCell-79:last-child {
+  padding: 0px !important;
+} */
+
+/* .MuiPaper-rounded-15 {
+  border-radius: 0px !important;
+} */
+
+/* .MuiPaper-elevation1-17, .MuiPaper-elevation1-20,.MuiPaper-elevation1-22{
+  box-shadow: none !important;
+} */
+
+/* .MuiPaper-elevation1-42, .MuiPaper-elevation1-165 {
+  box-shadow: none !important;
+} */
+
+/* .TableResponsive, .Datagrid-table-71 {
+  width: 100% !important;
+  overflow-x: auto;
+  margin-top: -8px;
+} */
+
+/* .MuiFormLabel-root-50 {
+  color: white !important;
+  padding: 0;
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  line-height: 1;
+} */
+
+/* .Datagrid-headerCell-251 {
+  border: 1px solid #ccc !important;
+  padding: 0 12px !important;
+} */
+
+/* .Datagrid-headerCell-73, .MuiTableCell-root-490:last-child {
+  padding: 0 12px !important;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div > div > div > ul:hover{ 
+  background-color: #f2f4f7 !important;
+} */
+
+/* Login Page Background Image Style */
+/* .Login-main-1 {    
+  background-position: center top !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% 100% !important;
+} */
+
+/* .Login-avatar-3 {
+  background-color: transparent !important;
+} */
+
+/* .MuiInput-underline-61:before {
+  border-bottom: 1px solid #ccc !important; 
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div > div a{
+  color:#646777 !important;
+  border-bottom: 1px solid #eff1f5 !important;
+} */
+
+/* .WithTheme-WithWidth-Sidebar---drawerPaper-10 > div > div > div > ul h3{
+  color: #646777 !important;
+  font-size: 0.9rem;
+  } */
+
+/*********************************************************************************************************************************************************************************/
+/* Without Using Any Number Generic Style */
+
+
+/* div[class^="MuiPaper"], .headroom-wrapper .headroom header{
+  -webkit-box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.05) !important;
+  box-shadow: 0 2px 15px 0 rgba(0, 0, 0, 0.05) !important;
+} */
+
+main[class^="Layout"]{ 
+  background-color:#f2f4f7 !important; min-height: calc(100vh - 60px) !important; margin-top:60px !important;
+}
+
+/* Login Form Style */
+div[class^="Login"] > div[class^="MuiPaper"] {    
+  min-width: auto !important;
+  margin-top: 10em !important;  
+  /* border: solid #fff; */
+  border-radius: 8px !important;  
+  background: rgba(0,0,0,.7) !important;
+  /* background: rgba(94,204,246,.3) !important; */
+  padding: 20px 22px !important;
+}
+
+.show-page #map{
+  margin-top:15px;
+  width:100%;
+}
+
+/* .progress-wrap {
+  margin-bottom: 20px;
+  position: relative;
+
+}
+
+.progress-wrap--small {
+
+  height: 8px;
+}
+.progress-wrap--pink {
+
+    background-color: "red"
+  }
+
+.progress-wrap--label-top{
+      position: absolute;
+      right: 0;
+    } */
+.dashboard__stat {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  align-items: center;
+
+}
+@media screen and (min-width: 1200px) and (max-width: 1439px) {
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+
+  .dashboard__stat-info {
+    margin: 0;
+  }
+
+  .dashboard__stat-chart {
+    margin-bottom: 15px;
+  }
+}
+
+.p {
+  margin: 0 0 0 0;
+
+}
+p, h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  font-weight: 400;
+  margin-bottom: 0;
+
+
+}
+
+/* h4 {
+  font-size: 18px;
+  line-height: 24px;
+
+
+} */
+.h4 {
+  font-size: 12px;
+ 
+  line-height: 16px;
+}
+
+.dashboard__carousel {
+  margin-bottom: -25px;
+
+}
+/* @include themify($themes) {
+  background: themed('colorBackgroundBody');
+} */
+.dashboard__carousel-title {
+  color:"red";
+  font-size: 24px;
+  font-weight: 500;
+}
+.dashboard__carousel-slide {
+  border-radius: 5px;
+  padding: 15px 13px;
+  position: relative;
+  overflow: hidden;
+}
+.devices__stat-info {
+  margin-top: 3px;
+  margin-left:3px;
+  margin-right:0px;
+  font-size: 14px;
+}
+.dashboard__stat-info {
+  margin-left:25px;
+  margin-right:0px;
+  font-size: 14px;
+}
+.dashboard__stat-number {
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 14px;
+}
+.dashboard__stat-chart {
+  
+  position: relative;
+  text-align: center;
+}
+
+.dashboard__stat-label {
+  position: absolute;
+  font-size: 18px;
+  line-height: 20px;
+  top: calc(50% - 10px);
+  width: 100%;
+  margin: 0;
+  animation: label 1.5s ease-in;
+  color: #dddddd;
+}
+
+
+.show-page table{
+  min-width:100% !important;
+}
+.show-page #map .container{ 
+  padding:0px !important;
+}
+
+[class^="MuiCardContent"]{
+  padding:10px 15px !important;
+}
+.ra-field form{ width:100%; padding:15px;}
+
+.deviceTable{
+  margin-top:30px;
+}
+
+.list-page [class^="MuiToolbar"] {
+  padding:0px !important;
+  padding-top: 9px !important;
+}
+.list-page [class^="MuiToolbar"] [class^="MuiFormLabel"], .list-page [class^="MuiToolbar"] [class^="MuiInput"]{
+  min-width: 140px;
+}
+
+.show-page div[class^="MuiPaper"] {
+  box-shadow:none !important;
+  border-radius:5px !important;
+}
+.layout div[class^="MuiDrawer"] svg[class^="MuiSvgIcon"]  { 
+  width: 20px !important; height: 20px !important;
+}
+.layout div[class^="MuiDrawer"] div[class^="Menu"]{ 
+  padding-top:15px;
+}
+.layout div[class^="MuiDrawer"] div[class^="Menu"] a{ 
+  padding-left:18px;
+  font-size:15px; 
+  font-weight:400;
+}
+.layout div[class^="MuiDrawer"] div[class^="Menu"] a > span[class^="MenuItemLink"] { 
+  padding-right:17px !important; position:relative; top:-2px;
+}
+
+.dashboardContainer .row > div > div{  
+  max-width:100% !important; border-radius: 4px !important;  min-height: 100%;
+}
+/* .headroom button{
+  margin:0px !important;
+} */
+
+div[class^="StatusStatisticsContainer"]{  
+  width:100% !important;
+  max-width:100% !important;
+  box-shadow:none;
+}
+/* .headroom-wrapper{ height:auto !important;} */
+
+div[class^="MuiDrawer"] > div {
+    border: none;
+    margin-top: 0px !important; 
+}
+
+div[class^="MuiGrid"] > div[class^="MuiPaper"]{
+  margin-top: 15px !important;
+   max-width:100% !important;
+   border-radius: 4px !important;
+ }
+
+h2[class^="MuiTypography"]{
+  color: #646777 !important;
+}
+
+/* .headroom-wrapper .headroom header {
+  background-color:#FFFFFF !important;
+  padding: 6px 4px !important;
+  position: fixed !important;
+} */
+
+div[class^="MuiDrawer"] div[class^="MuiPaper"] div[class^="Menu"]{
+  width:100% !important; 
+} 
+
+div[class^="MuiDrawer"] div[class^="MuiPaper"] div[class^="Menu"] ul > div{
+  padding-left: 16px;
+ 
+} 
+div[class^="MuiDrawer"] > div[class^="MuiPaper"] > div{
+  position: fixed;
+    width: inherit;
+}
+div[class^="MuiDrawer"] div[class^="MuiPaper"] div[class^="Menu"] ul{
+  position: absolute;
+    bottom: 0px;
+    width: 100%;
+    overflow: hidden;
+}
+div[class^="MuiDrawer"] div[class^="MuiPaper"]{
+  min-height: calc(100vh - 60px) !important;
+  border-radius: 0px !important;
+  width:100%;
+  -webkit-box-shadow: 0 1px 30px 1px rgba(0,0,0,.11) !important;
+  box-shadow: 0 1px 30px 1px rgba(0,0,0,.11) !important;
+} 
+.layout div[class^="MuiDrawer"]{
+  overflow:hidden;
+  background-color:#FFFFFF;
+}
+
+.show-page span[class^="MuiTab"], .show-page a{
+  font-weight: bold;
+  text-decoration:none !important;
+  font-size:14px;
+} 
+label[class^="MuiFormLabel"] > span{ font-size:22px !important; color:#646777 !important; font-weight:bold; }
+.show-page div[class^="MuiFormControl"]{ width:100%; display:block;}
+form div[class^="MuiFormControl"]{display:inline-block !important;}
+.show-page div[class^="MuiFormControl"] div[class^="Labeled"]{ padding:0 !important;}
+.show-page div[class^="MuiFormLabel"] { font-size: 1.2rem !important; color: rgba(0, 0, 0, 0.9);}
+
+
+.recharts-wrapper, .recharts-wrapper svg{ width:100% !important;}
+
+.layout, div[class^="Layout"] { 
+  max-width:100% !important;   min-width:auto !important; background: #f2f4f7 !important;
+}
+
+.card-body .panel__btns{
+  position:absolute;
+  right:20px;
+}
+.card-body .panel__btns button{
+  border: none;
+  background: transparent;
+}
+.card-body .panel__btns button svg{
+  height: 16px;
+  width: 16px;
+  fill:#999;
+}
+.card-body .panel__title{
+  margin-bottom:20px;
+}
+.card-body .panel__title .bold-text{
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #646777;
+  font-weight: bold !important;
+}
+.card-body .table thead th{
+  border-top: none !important;
+  color: #646777;
+  border-bottom-color: #eff1f5 !important;
+  font-size: 14px;
+}
+
+.card-body .table tbody td{
+  color: #646777;
+  font-size: 14px;
+}
+button, * {
+  outline: none !important; 
+}
+main div[class^="Layout"]{
+  padding: 24px !important;
+}
+.layout .panel{margin-bottom:25px;}
+
+@media (min-width: 1200px){
+  .container {
+    max-width: 100% !important;
+  }
+}
+@media (max-width: 991px){
+  #deviceContainer{
+    max-width:98%;
+    padding:0px;
+  }
+}
+@media (min-width: 992px){
+  #deviceContainer{
+    max-width:calc(100% - 1px);
+    padding:0px;
+  }
+}
+ 
+.datagrid-body tr:hover{
+  /* background: linear-gradient(to right, #FF5722, #FBCA00) !important; */
+  /* background-color: #FBCA00 !important; */
+  background-color: #f2f4f7 !important;
+  }
+  /* .datagrid-body tr:hover svg[class^="MuiSvgIcon"]{
+    fill: #fff !important;
+  } */
+
+#react-admin-title span{
+	color:#646777 !important;
+}
+.show-page a{border-bottom: 2px solid #f2f4f7 !important;}
+
+.card {
+  border: none !important;
+}
+
+.badge{
+  color: #fff !important;
+    padding: 2px 20px !important;
+    border-radius: 15px !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+}
+
+.badge-success {
+  color: #fff;
+  background-color: #4ce1b6 !important;
+}
+
+.badge-danger {
+    color: #fff;
+    background-color: #ff4861 !important;
+}
+
+.badge-warning {
+  color: #fff;
+  background-color: #f6da6e !important;
+}
+
+.badge-primary {
+  color: #fff;
+  background-color: #70bbfd !important;
+}
+
+.badge-secondary {
+  color: #fff;
+  background-color: #e7e2e2 !important;
+}
+
+.badge-info {
+  color: #fff;
+  background-color: #5bc0de !important;
+}
+
+#loginfrm{
+  height:0px !important;
+  background-size: 100% 100% !important;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-size: cover;
+}
+
+/* Collpse Start Style */
+
+.collapse__title {
+  background-color: #f2f4f7;
+  border-bottom: solid 1px #dddddd;
+  padding: 8px 15px;
+  cursor: pointer;
+  position: relative;
+  background: transparent;
+  display: block;
+  width: 100%;
+  border: none;
+  text-align: left;
+}
+.collapse__title p {
+    color: #fff;
+  }
+
+.collapse__titlesvg {
+    display: none;
+  }
+
+  .collapse__content {
+    padding: 15px 20px 0 25px;
+    max-width: 1320px;
+  }
+
+  .collapse__wrapper .collapse__title {
+    padding: 15px 25px;
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,.05);
+    transition: background-color .3s;
+}
+
+.collapse__wrapper.with-shadow {
+  margin-bottom: 10px;
+  box-shadow: none;
+}
+
+.collapse__title p svg {
+  float: right;
+  width: 14px;
+  height: 14px;
+  fill: #fff !important;
+}
+
+.collapse__title p {
+  font-weight: 500;
+  margin-top: 0;
+  transition: all .3s;
+  position: relative;
+  font-size: 14px;
+  margin-bottom: 0px !important;
+}
+
+.collapse__content {
+  color: #646777 !important;
+  font-size: 13px !important;
+}
+
+.list-group-item.active {  
+  background-color: lightseagreen!important;
+  border-color: lightseagreen!important;
+}
+
+.collapse__wrapper .collapse__title {  
+  border-radius: 6px;  
+  background-color: #4570b1 !important; 
+}
+
+/* Collpse End Style */
+
+.page-title {  
+  font-size: 20px;
+  color: #646777 !important;
+  font-weight: 500;
+  text-transform: capitalize;
+  padding-bottom: 8px !important;
+}
+.subpage-title {  
+  font-size: 16px;
+  color: #646777 !important;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.info-title-span {
+  font-size: 20px;
+  color: #646777 !important;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+.list-group-item-action {
+  font-size: 14px !important;
+}
+
+.panel__refresh svg {
+  fill: #4ce1b6;
+  position: absolute;
+  -webkit-animation: refresh 1s linear infinite;
+  animation: refresh 1s linear infinite;
+  z-index: 10;
+  width: 48px;
+  height: 48px;
+  top: calc(50% - 24px);
+  left: calc(50% - 24px);
+}
+
+.heading-txt {
+  border-left: 3px solid #646777;
+  background-color: #f1f1f1;
+  padding: 8px;
+}
+
+.panel__title .subhead {
+  text-transform: none;
+  font-size: 13px;
+  line-height: 18px;
+  opacity: .7;
+  transition: .3s;
+}
+
+.tbl-height{
+  height: 500px;
+  overflow-y:scroll;  
+}
+
+/* .tbl-height th{
+  color:white !important; 
+} */
+
+div[class^="MuiGrid"] > div[class^="MuiPaper"] > div[class^="MuiToolbar"]{
+  /* background-color: #646777 !important; */
+  min-height: 48px !important;
+  margin-top: 4px;
+  border-bottom: 2px solid rgba(224, 224, 224, 1);
+}
+div[class^="MuiGrid"] > div[class^="MuiPaper"] > div[class^="MuiToolbar"] > div[class^="EnhancedTableToolbar"]{
+  width: 100% !important;
+}
+.dashboard.container .row > div > div > div #tableTitle{color:rgba(0, 0, 0, 0.54) !important;font-size: 14px;text-align: center;font-weight: bold;text-transform: uppercase;}
+.dashboard.container .row > div > div table tbody tr th{padding: 0px !important;}
+.dashboard.container .row > div > div table{border-right: 2px solid #e0e0e0 !important;}
+.dashboard.container .row > div > div table tbody tr{border-bottom: 1px solid #e0e0e0 !important;}
+div[class^="MuiGrid"] > div[class^="MuiGrid"]{
+  padding-left: 0px !important;
+}
+div[class^="MuiTypography"]{
+  padding: 0px !important;
+  padding-left: 0px !important;
+}
+div[class^="MuiGrid"] > div[class^="MuiGrid"] tbody tr td{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.dashboard.container div[class^="MuiPaper"] table tr{
+  height: 199px;
+}
+.dashboard.container div[class^="MuiGrid"] header{
+  background-color:transparent !important;
+  box-shadow: none !important;
+}
+/* .dashboard.container div[class^="MuiGrid"] header button span{
+  color: #fff !important;
+} */
+.dashboard.container hr[class^="MuiDivider"]{
+  display: none !important; height: 0px !important;
+}
+div[class^="MuiTypography"] tbody tr td{
+  border-bottom: 2px solid #e0e0e0 !important;
+  padding-top: 10px !important;
+}
+.simple-form .SelectFieldDiv div[class^="MuiSelect"]{
+  min-width: 280px !important;
+}
+.simple-form div[class^="MuiSelect"]{
+  min-width: 190px !important;
+}
+.simple-form div[class^="MuiFormControl"] .button-add{
+  min-width: 100px !important;
+  margin-top: 15px !important;
+  background: #646777 !important;
+  color: #FFFFFF !important;
+}
+.simple-form .button-add svg{
+  fill: #FFFFFF !important;
+}
+div[class^="MuiDialogActions"]{
+  justify-content: flex-start !important;
+  margin: 8px 34px !important;
+}
+.MuiDialog-paperFullWidth-26{
+  max-width: 400px !important;
+}
+.ra-input-attributes div[class^="MuiFormControl"] ul li p{
+  display: none !important;
+}
+.ra-input-attributes label[class^="MuiFormLabel"] > span{
+  font-size: 16px !important;
+  color: rgba(0, 0, 0, 0.54) !important;
+  font-weight:normal !important;
+}
+div[class^="MuiDialogActions"] svg{
+  fill: #FFFFFF !important;
+}
+
+/* div[class^="MuiGrid"] > div[class^="MuiGrid"]{
+  padding-top: 4px !important;
+} */
+div[class^="MuiModal"] > div[class^="MuiPaper"]{
+  max-width: 422px !important;
+}
+.list-page div[class^="MuiPaper"]{
+  box-shadow:none !important;
+}
+ul[class^="MuiList"]{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  border-bottom: 1px solid #eff1f5;
+}
+li[class^="MuiListItem"] a{
+  border-bottom:none !important;
+}
+li[class^="MuiListItem"]{
+padding-top: 0px !important;
+padding-bottom: 0px !important;
+border-bottom: 1px solid #eff1f5;
+}
+li[class^="MuiListItem"] a{
+  font-size: 14px !important;
+}
+div[class^="MuiButtonBase"] a{
+  font-size: 14px !important;
+}
+div[class^="MuiList"] > div[class^="MuiButtonBase"]{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  border-bottom: 1px solid #eff1f5;
+}
+.list-page th[class^="MuiTableCell"]{
+  /* text-align: center !important; */
+  padding: 0px 4px !important;
+}
+#device .table-responsive table thead tr th{
+  padding: 10px 0px !important;
+}
+.list-page table{
+  width: 100% !important;
+}
+label[class^="MuiFormLabel"] span{
+  font-size: 20px !important;
+}
+.ra-input div[class^="MuiInput"]{
+  width: 100% !important;
+}
+div[class^="SaveButton"] > button[class^="SaveButton"]{
+  background-color:#3ea3fc !important;
+}
+.ra-input-assets{float: left !important;margin-right: 20px !important;}
+.ra-input-tags{float: left !important;margin-right: 20px !important;}
+.ra-input-description{float: left !important;margin-right: 20px !important;}
+.fade-enter-done{border-bottom: none !important;}
+.fade-enter-done p{display: none !important;}
+
+table .datagrid-body td{border-bottom: 1px solid #ccc !important; border-top: 1px solid #ccc !important;border-left: none !important; border-right:none !important;}
+
+.datagrid-body td a:hover{
+  /* background: #646777 !important; */
+  color: #fff !important;
+}
+.datagrid-body td a{color: #646777 !important;}
+
+.ra-field-planName{float: left !important;}
+/* .ra-field-description{margin-bottom:25px !important;} */
+.ra-field-scheduleType{float: left !important;}
+.ra-field-meterBased{float: left !important;}
+.ra-field-c_DueEvery{float: left !important;}
+div[class^="MuiCardActions"]{
+  padding: 12px 12px !important;
+}
+.ra-field-assetName{float: left !important;margin-right: 20px !important;}
+.ra-field-plan{float: left !important;margin-right: 20px !important;}
+.ra-field.ra-field-undefined{float: left !important;margin-right: 0px !important;}
+.ra-field-workOrder{float: left !important;margin-right: 20px !important;}
+.ra-field-completedBy{float: left !important;margin-right: 20px !important;}
+.ra-field-serviceRunHours{float: left !important;margin-right: 20px !important;}
+.ra-field-dateOfService{float: left !important;margin-right: 20px !important;}
+.ra-field-status{float: left !important;margin-right: 20px !important;}
+.ra-field-assetName label span {
+  font-size: 18px !important;
+}
+.ra-field-plan label span {
+  font-size: 18px !important;
+}
+.ra-field-workOrder label span {
+  font-size: 18px !important;
+}
+.ra-field-completedBy label span {
+  font-size: 18px !important;
+}
+.ra-field-serviceRunHours label span {
+  font-size: 18px !important;
+}
+.ra-field-dateOfService label span {
+  font-size: 18px !important;
+}
+.ra-field-status label span {
+  font-size: 18px !important;
+}
+
+#partstbl tbody tr td{
+  padding: 4px 15px 4px 0px !important;
+}
+
+table thead th, table thead th span{
+  font-size:14px !important;
+  font-weight:600 !important;
+  /* color:#646777 !important; */
+}
+
+/* .table-bordered {
+  border: 1px solid #dee2e6 !important;
+} */
+div[class^="Labeled"] table thead tr th{
+  /* text-align: center !important; */
+  padding-left: 0px !important;
+}
+div[class^="Labeled"] table thead tr th span span{
+  color: #646777  !important;
+  padding-left: 5px;
+}
+div[class^="Labeled"] table tbody tr td span{
+  padding-left: 5px;
+ }
+ .ra-field-assets{float: left; margin-right: 10px; width: 49% !important;background: #f2f4f717 !important;
+  box-shadow:none !important; min-height: 245px; border-radius: 4px;border: 1px solid #cccccc;}
+.ra-field-notify{float: left; margin-left: 10px; width: 49% !important;background: #f2f4f717 !important;
+  box-shadow: none !important;border-radius: 4px;min-height: 246px;border-radius: 4px;border: 1px solid #cccccc;}
+
+.ra-field-calendarBased{float: left; width: 100% !important;}
+/* .ra-field-documentLinks{float: left; width: 132% !important;} */
+.ra-field-tags{float: left; width: 100% !important;}
+.ra-field-scheduleType{float: left; width: 100% !important;}
+.ra-field-meterBased{float: left; width: 100% !important;}
+.ra-field-assets label span{
+  font-size: 20px !important;
+}
+.ra-field-documentLinks label{
+  text-align: center !important;
+  width: 132% !important;
+}
+.ra-field-assets label{
+  width: 125% !important; text-align: center !important;
+}
+.ra-field-notify label span{
+  font-size: 20px !important;
+}
+.ra-field-notify label{
+  width: 132% !important; text-align: center !important;
+}
+.ra-field-assets .datagrid-body tr:last-child td{
+  border-bottom:none !important;
+}
+.ra-field-notify .datagrid-body tr:last-child td{
+  border-bottom:none !important;
+}
+.ra-field-assets div[class^="MuiFormControl"]{
+  margin-bottom: 0px !important;
+  float: left !important;
+}
+.ra-field-notify div[class^="MuiFormControl"]{
+  margin-bottom: 0px !important;
+}
+svg[class^="MuiSvgIcon"] {
+  fill: #646777 !important;
+}  
+.show-page div[class^="MuiCardContent"] label[class^="MuiFormLabel"] > span{
+  font-weight: bold !important;
+  font-size: 20px !important;
+}
+div[class^="MuiCardContent"] span .ra-field.ra-field-undefined{ 
+float: inherit !important;
+}
+div[class^="Layout"]{
+  z-index: 9 !important;
+}
+div[class^="MuiDialogTitle"]{
+  padding: 20px 24px 0px !important;
+}
+.container .row b div{
+  color: #646777 !important;
+  margin-bottom: 10px !important;
+}
+.row form div[class^="MuiInput"] div[class^="MuiSelect"]{
+  min-width: 60px;
+}
+.row #analysisrep div[class^="MuiPaper-root"]{
+width: 100% !important;
+padding: 15px !important;
+}
+#analysisrep div[class^="MuiPaper"] table tr{
+  height: 20px !important;
+}
+#analysisrep div[class^="MuiPaper"]{
+  box-shadow:none !important;
+}
+#analysisrep div[class^="WSMachineSummaryContainer"]{
+  margin-top: 15px !important;
+}
+#analysisrep .dashboard.container .row > div > div table{
+  border-right:none !important;
+}
+#analysisrep .dashboard.container .row > div > div table tbody :last-child{
+  border-bottom:none !important;
+}
+td[class^="MuiTableCell"]{
+  padding:0px !important;
+}
+#device td[class^="MuiTableCell"]{
+  padding: 9px 28px 4px 0px !important;
+}
+#loginfrm div[class^="MuiInput-error"]::after{
+  border-bottom-color:#FFFFFF !important;
+}
+/* span[class^="translate-Button"]{
+  color: #646777 !important;
+} */
+#loginfrm div[class^="Login"]{
+  background-color:transparent !important;
+}
+#loginfrm label{
+  color: #fff !important;
+}
+#loginfrm button{
+  background-color:#fbca00 !important;
+}
+#loginfrm input{
+  color: #FFFFFF !important;
+}
+div[class^="Menu-root"] a{
+  color:#646777 !important;border-bottom: 1px solid #eff1f5 !important;
+}
+ul[class^="MuiList"] h3{
+  color:#646777 !important;
+  font-size: 0.9rem;
+}
+ul[class^="MuiList"] li a:hover{
+  background-color:transparent !important;
+  color: #646777 !important;
+}
+ul[class^="MuiList"]{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+ul[class^="MuiList"] li:hover{
+  background-color: rgba(0, 0, 0, 0.08) !important;
+}
+ul[class^="MuiList"] li a{
+  color: #646777 !important;
+}
+div[class^="MuiButtonBase"] a:hover{
+  background-color:transparent !important;
+}
+div[class^="MuiButtonBase"] a{
+  color: #646777 !important;
+}
+.simple-form button[class^="MuiButton"]{
+  background-color:#70bbfd !important;
+  color: #FFFFFF !important;
+  min-width: 80px !important;
+}
+/* + buttons in create forms */
+.simple-form button[class^="MuiButton"] svg{
+  fill: #646777 !important;
+}
+
+div[class^="MuiDialogActions"] button:nth-child(1){
+  background-color: #70bbfd !important;
+}
+div[class^="MuiDialogActions"] button:nth-child(2){  
+  background-color: #e7e2e2;
+    border-color: #e7e2e2;
+    color: #646777;
+    padding: 11px 8px !important;
+}
+div[class^="MuiDialogActions"] button:nth-child(2):hover{  
+  border-color: #d0c6c6;
+  color: #646777;
+  background: #d0c6c6 !important;
+}
+.table--bordered.table tbody tr td:nth-child(2) strong{
+  font-weight: normal !important;
+}
+/* div[class^="MuiPaper"]{
+  box-shadow: none !important;
+} */
+div[class^="MuiDialogContent"] .simple-form div[class^="MuiFormControl"]{
+  margin-top: 0px !important;
+}
+div[class^="MuiDialogContent"] .simple-form div[class^="MuiCardContent"]{
+  padding-top: 0px !important;
+}
+.show-page .col-12.col-md-12.col-lg-12 form div[class^="MuiFormControl"]{
+  float: left !important;
+  width: inherit !important;
+  margin-right: 20px;
+}
+.table-bordered td, .table-bordered th{
+  border-top: none !important;
+  border-bottom: 1px solid #dee2e6 !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+.table-bordered tr th{
+  padding: 0px !important;
+}
+.table-responsive tr th {
+  text-align: left !important;
+}
+.table-responsive tbody tr td:nth-child(2) strong{
+  font-weight: normal !important;
+}
+/* .col-12.col-md-12.col-lg-12{
+  margin-bottom: 30px !important;
+} */
+.table-bordered{
+  border: none !important;
+}
+div[class^="MuiDialogContent"]{
+  padding: 0 24px 5px !important;
+}
+div[class^="MuiDialogActions"]{
+  padding-bottom: 15px !important;
+}
+/* div[class^="MuiDrawer"] div[class^="MuiPaper"]{
+  box-shadow: none !important;
+} */
+.card-body .panel__title{
+  margin-bottom: 0px !important;
+}
+.panel__content div[class^="MuiToolbar"]{
+  min-height:0px !important;
+}
+/* .row div[class^="MuiPaper"]{
+  width: 100%;  
+} */
+
+
+/* width */
+::-webkit-scrollbar {
+  height: 7px;              /* height of horizontal scrollbar ← You're missing this */
+  width: 7px;               /* width of vertical scrollbar */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+/* test this  */
+.chartjs-render-monitor{
+  height: 300px !important;
+  width: 85%;
+}
+.dashboard.container div[class^="MuiToolbar"]{
+background-color:transparent !important;
+}
+
+/* .tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 150%;
+  left: 50%;
+  margin-left: -60px;
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: black transparent transparent transparent;
+}
+
+div[class^="MuiButtonBase"]:hover .tooltiptext{
+  visibility: visible;
+} */
+
+section[class^="SimpleFormIterator"] .ra-input div[class^="MuiFormControl"]{
+  margin-bottom: -1px !important;
+}
+span[class^="translate"]{
+  color:#646777 !important;
+}
+div[class^="MuiModal"] div[class^="MuiPaper"] div[class^="MuiPaper"]{
+  width: 100% !important;
+  box-shadow: none !important;
+}
+div[class^="MuiModal"] div[class^="MuiPaper"] div[class^="MuiPaper"] ul > div{
+  padding-left: 9px !important;
+}
+div[class^="MuiModal"] div[class^="MuiPaper"] {
+  background: #ffffff !important;
+}
+div[class^="MuiModal"] div[class^="MuiPaper"] div[class^="MuiPaper"] div[class^="Menu"]{
+  width: 100% !important;
+}
+div[class^="MuiModal"] div[class^="MuiPaper"] div[class^="MuiPaper"] div[class^="Menu"] a{
+  font-size: 15px !important;
+}
+
+.Common-div {
+  width: 50% !important;
+  float: left !important;
+  padding: 10px !important;
+}
+.ra-field-undefined.Common-div{
+  position: absolute;
+  top: 76px;
+}
+.Cols-width {
+  width: 13% !important;
+  float: left !important;
+  min-height: 46px;
+}
+
+.Cols-div-width {
+  /* width: 33.3% !important; */
+  float: left !important;
+  /* padding: 10px; */
+}
+/* div[class^="MuiCardContent"] .ra-field:nth-child(7){
+  display: none !important;
+} */
+div[class^="MuiCardContent"] .ra-field:nth-child(8) div[class^="MuiFormControl"]{
+  margin-top: 6px !important;
+}
+div[class^="MuiCardContent"] .ra-field-calendarBased{
+  width: 21% !important;
+}
+.ra-field-c_DueEvery{
+  width: 120px !important;
+}
+div[class^="MuiCardContent"] .ra-field-tags{
+  width: 7% !important;
+}
+
+#loginfrm div[class^="MuiInput"]::before {
+  border-bottom: 1px solid #ccc !important; 
+}
+#mainDialog div[class^="MuiPaper"]{
+  max-width: 335px !important;
+}
+label[class^="MuiFormLabel"] span{
+  font-size: 1rem !important;
+  font-weight: normal !important;
+}
+div[class^="MuiDialogTitle"] h2{
+    font-size: 14px !important;
+    color: #646777 !important;
+    font-weight: bold !important;
+}
+.simple-form .fade-enter-done button[class^="MuiButton"]{
+  background: #646777 !important;
+}
+.simple-form div[class^="MuiCardContent"] .ra-input-attributes ul{
+  margin-top: 20px !important;
+}
+/* .simple-form div[class^="MuiCardContent"] .ra-input:nth-child(2){
+display: none !important;
+} */
+#menu- ul li[class^="MuiButtonBase"]{
+  height: 10px !important;
+  font-size: 14px !important;
+}
+#menu- div[class^="MuiPaper"]{
+  /* top: 243px !important;
+  left: 508px !important; */
+  min-width: 276px !important;
+}
+#menu- ul li[class^="MuiButtonBase"] > div span{
+  font-size: 14px !important;
+}
+div[class^="MuiPaper"] ul li[class^="MuiButtonBase"] span{
+  font-size: 14px !important;
+}
+.list-page [class^="MuiToolbar"] [class^="MuiFormLabel"], .list-page [class^="MuiToolbar"] [class^="MuiInput"]{
+  min-width: 230px !important;
+}
+body{font-family: Roboto,sans-serif !important;}
+.recharts-legend-item-text{
+  font-size: 13px !important;
+    font-weight: bold !important;
+    color: #666979 !important;
+}
+.recharts-layer.recharts-cartesian-axis-tick{
+  font-size: 13px !important;
+  font-weight: bold !important;
+  color: #666979 !important;
+}
+#dashboard .chartjs-render-monitor{
+  height: inherit !important;
+}
+.ra-field.ra-field-undefined.page-title{
+  float: inherit !important;
+}
+/* .edit-page div[class^="MuiPaper"] div[class^="MuiCardContent"]:nth-child(1){
+  float: right !important;
+} */
+#edit-form div[class^="MuiCardContent"]:nth-child(2){
+  float: left;
+}
+div[class^="MuiPaper"] #edit-form div[class^="MuiCardContent"]:nth-child(1){
+float: left !important;
+}
+/* div[class^="MuiPaper"] #edit-form div[class^="MuiCardContent"] .ra-input:nth-child(3){
+  display: none !important;
+  } */
+#edit-form .ra-input-notify ul li{
+  border-bottom: none !important;
+}
+#emails ul li{
+  border-bottom: none !important;
+}
+#emails ul li p{display: none !important;}
+#triggers ul li p{display: none !important;}
+#triggers ul div li {
+  border-bottom:none !important;
+}
+
+/* 
+.col3{
+	width:15%;
+	float:left;
+	border:1px solid #ccc;
+	text-align:center;
+	padding-top:70px;
+}
+
+.col6{
+	width:60%;
+	float:left;
+	border:1px solid #ccc;	
+	min-height:150px;
+}
+.main{
+  width:100%;
+	background:#fff;
+	padding:40px;
+}
+
+.colHalf{
+	width:50%;
+	float:left;
+}
+
+.col1{
+	width:10%;
+	float:left;
+	border:1px solid #ccc;
+	text-align:center;
+}
+.col2{
+	width:10%;
+	float:left;
+	border:1px solid #ccc;
+	text-align:center;
+	padding-top:70px;
+}
+.col1, .col2, .col3, .col6{
+	height:200px;
+	
+} 
+.boxs{
+	border-bottom:1px solid #ccc;
+	padding-top:20px;
+	padding-bottom:20px;
+	}
+	.boxs:last-child{
+	border-bottom:none;
+  } */
+  
+
+
+  /*  CSS on 29th */
+
+
+.show-page div[class^="MuiPaper"] div[class^="MuiCardContent"]:nth-child(1){
+  float: right;
+  }
+  #reportTypes form span[class^="translate"]{
+    color: #ffffff !important;
+  }
+  #reportTypes form button{
+    background: #646777 !important;
+  }
+  
+  #edit-form ul li p[class^="MuiTypography"]{
+    display: none !important;
+  }
+  #edit-form div[class^="MuiCardContent"] div[class^="MuiToolbar"] button{
+    margin-right: 10px !important;
+  }
+  div[class^="MuiCardContent"] div[class^="MuiChip"]{
+    margin:0px !important;
+    height:20px !important;
+  }
+  .ra-field-documentLinks{
+    width: 49%;
+    min-height: 150px;
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  #reportTypes form div[class^="MuiInput"]{
+    width: 300px !important;
+  }
+  #reportTypes form div[class^="MuiInput"] div[class^="MuiSelect"] div[class^="MuiSelect"]{
+    
+    color: #646777;
+  }
+  #reportTypes form div[class^="MuiInput"] div[class^="MuiNativeSelect"]{
+    
+    color: #646777;
+    padding-left: 10px !important;
+  }
+  #reportTypes form label{
+    padding-left: 10px !important;
+  }
+  #repTitle {
+    margin-bottom: -10px !important;
+    float: right;
+  }
+  #analysisrep .recharts-default-legend .recharts-legend-item{
+    width: 100%;
+    padding-left: 48px;
+  }
+  #analysisrep .recharts-default-legend .recharts-legend-item span{
+      text-align: center;
+      width: 100%;
+      float: left;
+  }
+  .repBarTitle{
+    width: 100% !important; 
+    text-align: center !important;
+  }
+  #analysisrep div[class^="MuiTypography"] div[class^="MuiGrid"]{
+  margin: 0 auto !important;
+  }
+  #repForm{
+    width: 100%;
+    float: left;
+  }
+  #analysisrep .dashboard table tbody tr:last-child th{
+    border-bottom: none !important;
+  }
+  #analysisrep .dashboard div[class^="MuiPaper"]{
+    border: 1px solid #d2d4d6;
+  }
+
+  /* Uncomented this just now  start */
+  /* .dashboard .recharts-wrapper .recharts-surface{
+    height: 310 !important;
+  }
+  .dashboard .recharts-wrapper{
+    height: 300px !important;
+    } */
+ /* Uncomented this just now  End */
+
+  #analysisrep div[class^="MuiGrid"] > div[class^="MuiGrid"]{
+    padding:7px 15px !important;
+  }
+
+  /* Above Tested */
+
+
+
+  .ra-field.ra-field-emails{
+    float: left;
+    width: 50%;
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+    margin-bottom: 20px !important;
+  }
+  .ra-field.ra-field-triggers{
+    float: left;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #cccccc;
+  }
+  .ra-field.ra-field-emails table .datagrid-body tr:last-child td{
+  border-bottom: none !important;
+  }
+  .ra-field.ra-field-emails table thead tr{
+    border-top:1px solid #ccc !important;
+    height: 40px !important;
+    }
+  .ra-field.ra-field-triggers table thead tr{
+    border-top:1px solid #ccc !important;
+    height: 40px !important;
+    }
+  .ra-field.ra-field-emails table tbody tr{
+      border-top:1px solid #ccc !important;
+      height: 40px !important;
+      }
+  .ra-field.ra-field-triggers table tbody tr{
+      border-top:1px solid #ccc !important;
+      height: 40px !important;
+      }
+  .ra-field.ra-field-triggers .datagrid-body tr:last-child td{
+    border-bottom: none !important;
+    }
+  div[class^="MuiFormControl"]{
+    margin-bottom: 0px !important;
+  }
+  .Cols-width label[class^="MuiFormLabel"]{
+    transform-origin: top center !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+  .Cols-width div[class^="MuiFormControl"] span[class^="MuiTypography"] {
+  width: 100% !important;
+  text-align: center;
+  }
+  .Cols-div-width-width label[class^="MuiFormLabel"]{
+    transform-origin: top center !important;
+    width: 100% !important;
+    text-align: center !important;
+  }
+  .Cols-div-width-width div[class^="MuiFormControl"] span[class^="MuiTypography"] {
+  width: 100% !important;
+  text-align: center;
+  }
+  #alert_form{
+    float: left !important;
+    width: 100% !important;
+    padding: 0px 20px !important;
+  }
+  .edit-page div[class^="MuiPaper"] #alert_form div[class^="MuiCardContent"]{
+    float: left !important; width: 100% !important;
+  }
+  .edit-page div[class^="MuiPaper"] #alert_form div[class^="MuiCardContent"] div[class^="Toolbar"]{
+    justify-content: left !important;
+  }
+  .edit-page div[class^="MuiPaper"] #alert_form div[class^="MuiCardContent"] div[class^="Toolbar"] button{
+    margin-right:10px !important;
+  }
+  #repForm div[class^="MuiInput"] input{
+    
+    color: #646777;
+    padding-left: 10px !important;
+  }
+  .ra-field-assets table thead tr{
+    border-top: 1px solid #cccccc;
+    height: 40px !important;
+  }
+  .ra-field-documentLinks table thead tr{
+    border-top: 1px solid #cccccc;
+    height: 40px !important;
+  }
+  .ra-field-notify table thead tr{
+    border-top: 1px solid #cccccc;
+    height: 40px !important;
+  }
+  .ra-field-assets table tbody tr{
+    border-top: 1px solid #cccccc;
+    height: 40px !important;
+  }
+  .ra-field-documentLinks table tbody tr{
+    border-top: 1px solid #cccccc;
+    height: 40px !important;
+  }
+  .ra-field-notify table tbody tr{
+    border-top: 1px solid #cccccc;
+    height: 40px !important;
+  }
+  .ra-field-emails label{
+    width: 100%;
+    text-align: center;
+    transform-origin:top center !important;
+  }
+  .ra-field-triggers label{
+    width: 100%;
+    text-align: center;
+    transform-origin:top center !important;
+  }
+  .ra-field-alertConfigName{
+    margin-bottom: 10px !important;
+  }
+
+  .simple-form div[class^="MuiFormControl"] ul li button[class^="MuiButton"]{
+    background: #ffffff !important;
+    color: #646777 !important;
+  }
+  .simple-form div[class^="MuiFormControl"] ul li button[class^="MuiButton"]:hover{
+    background: #e0e0e0 !important;
+    color: #646777 !important;
+  }
+  .card .card-body .col-6.col-md-6.col-lg-6{
+    float: left;
+      border:1px solid #ccc !important;
+      padding-top: 10px;
+      margin-left: 10px;
+      border-radius: 5px;
+      max-width: 48% !important;
+  }
+  .card .card-body .col-6.col-md-6.col-lg-6 h5{text-align: center !important;}
+
+  #analysisDate{
+    font-weight: normal !important;
+    padding-left: 20px;
+  }
+  #alert_form_create .ra-input-triggers div[class^="MuiFormControl"]{
+    width: 100% !important;
+  }
+  #alert_form_create .ra-input ul .ra-input{
+    float: left !important;
+    width: 225px !important;
+    margin: 5px !important;
+  }
+
+  #alert_form_create .ra-input ul .ra-input label{
+    font-size: 14px !important;
+    margin-left: 0px !important;
+    margin-top: 4px !important;
+  } 
+  #alert_form_create .ra-input ul .ra-input span{
+    font-size: 14px !important;
+  } 
+  #alert_form_create .ra-input ul li span button{
+    margin-top: 26px !important;
+  } 
+  #alert_form_create .ra-input-emails div[class^="MuiFormControl"]{
+    width: 220px !important;
+  }
+  #alert_form_create .ra-input-assets div[class^="MuiFormControl"]{
+    width: 220px !important;
+    margin-left: 5px;
+  }
+
+  #alert_form_create .ra-input-assets div[class^="MuiFormControl"] label{
+    margin-left:10px !important;
+  }
+  #alert_form_create .ra-input-assets div[class^="MuiFormControl"] label span{
+    font-size: 14px !important;
+  }
+  /* #alert_form_create div[class^="MuiCardContent"] .ra-input:nth-child(3){
+    display: none !important;
+  } */
+  
+  .ra-field.ra-field-triggers{
+    margin-bottom: 15px;
+  }
+  #alert_form_create .ra-input-assetsForRef div[class^="MuiFormControl"]{
+    width: 220px !important;
+    margin-left: 5px;
+  }
+
+  #alert_form_create .ra-input-assetsForRef div[class^="MuiFormControl"] label{
+    margin-left:10px !important;
+  }
+  #alert_form_create .ra-input-assetsForRef div[class^="MuiFormControl"] label span{
+    font-size: 14px !important;
+  }
+  #assetInfo li{
+    list-style-type: none !important;
+    color: #646777 !important;
+    font-size: 16px !important;
+  }
+
+  #edit-form li button{
+    margin-top: 21px;
+      margin-left: 10px;
+  }
+
+  input{font-size: 14px !important;}
+  .ra-input.ra-input-scheduleType{
+    float: left;
+    width: 100% !important;
+  }
+  #edit-form .ra-input:nth-child(16){
+    float: left !important;
+  }
+
+#assetShow label{
+  position:fixed !important;
+}
+#assetShow .TableResponsive div[class^="MuiFormControl"]{
+  margin-top: 0px !important;
+}
+#assetShow .card-body .table tbody td{
+  padding-top: 8px !important;
+  padding-bottom: 5px !important;
+}
+#assetShow .card-body .table tbody tr{
+  height: 45px !important;
+}
+tbody tr td a{
+  padding: 7px 0px !important;
+}
+#device .table-responsive table thead tr{
+  height:15px !important;
+}
+.asset_req{
+  font-size: 13px !important;
+  float: right;
+  text-align: center;
+  width: 50%;
+  margin-top: 5px;
+  color: #f44336;
+}
+.date_field{
+  float: left;
+  margin-left: 20px !important;
+}
+#repForm button{
+  margin-left: 18px;
+  float: left;
+}
+
+#assetShow .col-12 .collapse .ra-field-undefined .dashboard div[class^="MuiGrid"]{
+  flex-basis:100% !important;
+  max-width:100% !important;
+}
+#sensorList{border: 1px solid gray;}
+#sensorList .col-md-2, .col-md-6{border-right: 1px solid gray;}
+#sensorList #last_grid{border-right:none !important;}
+#sensorList #middle_grid {
+  padding: 0px !important;
+}
+div[class^="recharts"]{
+  font-size: 14px !important;
+  font-family:Roboto,sans-serif !important;
+  font-weight: bold !important;
+}
+span[class^="MuiTab"]{
+  color: #646777 !important;
+}
+div[class^="MuiPaper"]{
+  
+  box-shadow: 5px 2px 22px 5px rgba(0, 0, 0, 0.1) !important;
+}
+.rt-tbody .rt-td{
+  text-align: center;
+  font-size: 14px !important;
+  color: #646777 !important;
+}
+.ReactTable .rt-thead.-header{
+  border-bottom: 1px solid #eff1f5 !important;
+  box-shadow: none !important;
+}
+.ReactTable .rt-thead.-header .rt-resizable-header-content{
+  font-size: 14px;
+  font-weight: bold;
+  color: #646777 !important;
+}
+.dashboard #sensorList .recharts-wrapper{
+  height: auto !important;
+}
+
+
+#sensorList .col-md-2, .col-md-6{border-right: 1px solid #cccccc;}
+#sensorList #last_grid{border-right:none !important;}
+#sensorList #middle_grid {
+  padding: 0px !important;
+}
+.dashboard #sensorList .recharts-wrapper{
+  height: auto !important;
+}
+#middle_grid .col-md-12{
+  border-bottom: 1px solid #cccccc;
+  padding: 20px 15px; 
+}
+#middle_grid .col-md-12:last-child{
+  border-bottom: none !important;
+}
+#first_grid h6{
+  text-align: center;
+    padding: 84px 0px;
+}
+#last_grid h5{
+  text-align: center;
+    padding: 84px 0px;
+}
+#middle_grid .col-md-12{
+  text-align: center !important;
+}
+#middle_grid .col-md-12 svg{
+  fill: #92949f !important;
+  float: left !important;
+}
+
+
+
+
+
+#assetInfo li{
+  list-style-type: none !important;
+  color: #646777 !important;
+  font-size: 15px !important;
+}
+#assetInfo strong{
+  margin-right: 5px;
+    width: 50px;
+    float: left;
+}
+#assetInfo span{
+margin-left: 2px;
+}
+
+/* .col3{
+	width:15%;
+	float:left;
+	border:1px solid #ccc;
+	text-align:center;
+	padding-top:70px;
+}
+
+.col6{
+	width:60%;
+	float:left;
+	border:1px solid #ccc;	
+	min-height:150px;
+}
+.main{
+  width:80%;
+	background:#fff;
+	padding:40px;
+}
+
+.colHalf{
+	width:50%;
+	float:left;
+}
+
+.col1{
+	width:15%;
+	float:left;
+	border:1px solid #ccc;
+	text-align:center;
+}
+.col2{
+	width:10%;
+	float:left;
+	border:1px solid #ccc;
+	text-align:center;
+	padding-top:70px;
+}
+.col1, .col2, .col3, .col6{
+	height:200px;
+	
+} 
+.boxs{
+	border-bottom:1px solid #ccc;
+	padding-top:20px;
+	padding-bottom:20px;
+	}
+	.boxs:last-child{
+	border-bottom:none;
+  } */
+  #edit-form li button{
+    margin-top: 21px;
+      margin-left: 10px;
+  }
+ 
+  input{font-size: 14px !important;}
+  .ra-input.ra-input-scheduleType{
+    float: left;
+    width: 100% !important;
+  }
+  #edit-form .ra-input:nth-child(16){
+    float: left !important;
+  }
+  #assetShow label{
+    position:fixed !important;
+  }
+  #assetShow .TableResponsive div[class^="MuiFormControl"]{
+    margin-top: 0px !important;
+  }
+  #assetShow .card-body .table tbody td{
+    padding-top: 8px !important;
+    padding-bottom: 5px !important;
+  }
+  #assetShow .card-body .table tbody tr{
+    height: 45px !important;
+  }
+  tbody tr td a{
+    padding: 7px 0px !important;
+  }
+  #device .table-responsive table thead tr{
+    height:15px !important;
+  }
+  .asset_req{
+    font-size: 13px !important;
+    float: right;
+    text-align: center;
+    width: 50%;
+    margin-top: 5px;
+    color: #f44336;
+  }
+  .date_field{
+    float: left;
+    margin-left: 20px !important;
+  }
+  #repForm button{
+    margin-left: 18px;
+    float: left;
+  }
+  
+  #assetShow .col-12 .collapse .ra-field-undefined .dashboard div[class^="MuiGrid"]{
+    flex-basis:100% !important;
+    max-width:100% !important;
+  }
+
+  /* Uncommented Now Start */
+  /* #sensorList{border: 1px solid #cccccc; border-radius: 5px;}
+  #sensorList .col-md-2, .col-md-6{border-right: 1px solid #cccccc;}
+  #sensorList #last_grid{border-right:none !important;}
+  #sensorList #middle_grid {
+    padding: 0px !important;
+  }
+  .dashboard #sensorList .recharts-wrapper{
+    height: auto !important;
+  }
+  #middle_grid .col-md-12{
+    border-bottom: 1px solid #cccccc;
+    padding: 20px 15px; 
+  }
+  #middle_grid .col-md-12:last-child{
+    border-bottom: none !important;
+  }
+  #first_grid h6{
+    text-align: center;
+      padding: 84px 0px;
+      font-weight: 400 !important;
+  }
+  #last_grid h6{
+    text-align: center;
+      padding: 84px 0px;
+      font-weight: 400 !important;
+  }
+  #middle_grid .col-md-12{
+    text-align: center !important;
+  }
+  #middle_grid .col-md-12 span svg{
+    float: left !important;
+    fill: #6467777a !important;
+  } */
+   /* Uncommented Now End */
+
+  .dashboard.container .col-12 p[class^="MuiTypography"]{
+    color: rgba(0, 0, 0, 0.77) !important;
+    font-weight: 500 !important;
+  }
+  .filter-field button[class^="MuiButtonBase"]{
+    height:30px !important;
+  }
+  .edit-page div[class^="MuiPaper"] div[class^="MuiCardContent"]{
+    float:right;
+  }
+  #alert_form_create{
+    float: left;
+    width: 100%;
+  }
+  #alert_form_create .ra-input-triggers .ra-input div[class^="MuiInput"]{
+    width:85% !important;
+  }
+  #alert_form_create div[class^="MuiSelect"]{
+    min-width: 0px !important;
+  }
+  .fade-enter-done section .ra-input:nth-child(4) input{
+    height: 1.5em !important;
+  }
+  #locDate .span div[class^="MuiFormControl"] button{
+    background-color: #70bbfd !important;
+  }
+  #locDateBtn{
+    background-color:#646777 !important;
+  }
+  #homeDashboard td[class^="MuiTableCell"] {
+    padding: 10px !important;
+  }
+  #homeDashboard .col-md-2, .col-md-6{
+    border-right:none !important;
+  }
+  .deviceStatus{
+    height: 224px;
+  }
+  .footerValue{
+    font-size: 13px !important;
+    font-family:Roboto,sans-serif !important;
+    font-weight: bold !important;
+    text-align: center;
+  }
+  #sensorList{
+    border: 1px solid #cccccc; 
+    border-radius: 5px;
+  }
+  #sensorList #first_grid{
+    border-left:none !important;
+    text-align: center;
+  }
+  #sensorList #middle_grid {
+    padding: 0px !important;
+    text-align: center;
+  }
+  #sensorList #last_grid{
+    border-right:none !important;
+    text-align: center;
+  }
+  .dashboard #sensorList .recharts-wrapper{
+    height: auto !important;
+  }
+  #middle_grid .col-md-12{
+    border-bottom: 1px solid #cccccc;
+    padding: 25px 2px; 
+  }
+  #middle_grid .col-md-12:last-child{
+    border-bottom: none !important;
+  }
+  #sensorList #first_grid h6{
+    text-align: center;
+      padding: 84px 0px;
+      font-weight: 400 !important;
+  }
+  #sensorList #last_grid h5{
+    text-align: center;
+      padding: 84px 0px;
+      font-weight: 400 !important;
+  }
+  #sensorList #middle_grid .col-md-12{
+    text-align: center !important;
+  }
+  #sensorList #middle_grid .col-md-12 span svg{
+    /* float: left !important; */
+    fill: #6467777a !important;
+  }
+  #sensorList .col-md-1, .col-md-2, .col-md-6, .col-md-7, .col-md-8, .col-md-9{
+    border-right: 1px solid #cccccc;
+  }
+  #assetShow .col-md-8{
+    border-right: none !important;
+  }
+  .table-responsive{
+    height: 224px;
+  }
+    
+   
