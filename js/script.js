@@ -2,11 +2,12 @@
   interval: 3000,
  })
  
- $("#myCarousel").swiperight(function() {
-    $(this).carousel('prev');
-    $(this).carousel('next');
+ $("#myCarousel").on("swiperight",function() {
+  $(this).carousel('prev');
+  $(this).carousel('next');
 });
- 
+
+
 $('.dropdown-toggle').dropdown();
 
  $(document).ready(function () {
