@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/shoot-ball-modal.bc60e302.svg"
   },
   {
-    "revision": "317555beca6c60d728cc",
+    "revision": "bb878c0e96559f03a87d",
     "url": "/static/css/main.b8aeb572.chunk.css"
   },
   {
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "url": "/static/media/office-building-modal.3a00bdd2.svg"
   },
   {
-    "revision": "317555beca6c60d728cc",
-    "url": "/static/js/main.21bd5503.chunk.js"
+    "revision": "bb878c0e96559f03a87d",
+    "url": "/static/js/main.8d86e264.chunk.js"
   },
   {
     "revision": "af12f0b14a651a4433fa4528aabe54e0",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg.5a711c5d.jpg"
   },
   {
-    "revision": "8ea42f39ab68b9a274e7db7103edd5c0",
+    "revision": "e59c4ff2834fdfd290c17defc59f31aa",
     "url": "/index.html"
   }
 ];
