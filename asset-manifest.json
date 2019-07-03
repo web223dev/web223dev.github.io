@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d252e604.chunk.css",
+    "main.css": "/static/css/main.8683eeb3.chunk.css",
     "main.js": "/static/js/main.457073cb.chunk.js",
     "main.js.map": "/static/js/main.457073cb.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -9,10 +9,10 @@
     "static/js/2.f08d3903.chunk.js": "/static/js/2.f08d3903.chunk.js",
     "static/js/2.f08d3903.chunk.js.map": "/static/js/2.f08d3903.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.321dd693ed787707ff8a7757eda717c7.js": "/precache-manifest.321dd693ed787707ff8a7757eda717c7.js",
+    "precache-manifest.8194726321ec38f917871b6cc986c8b0.js": "/precache-manifest.8194726321ec38f917871b6cc986c8b0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9f214cd3.chunk.css.map": "/static/css/2.9f214cd3.chunk.css.map",
-    "static/css/main.d252e604.chunk.css.map": "/static/css/main.d252e604.chunk.css.map",
+    "static/css/main.8683eeb3.chunk.css.map": "/static/css/main.8683eeb3.chunk.css.map",
     "static/media/Daredevil.png": "/static/media/Daredevil.0a7d63d0.png",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   }
